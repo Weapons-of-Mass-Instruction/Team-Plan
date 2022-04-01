@@ -106,6 +106,7 @@ We will write out whole project in pseudo code.
 Trello
 
 ## Git Process
+
 Plan out what your team’s Git workflow looks like for coding tasks.
 
 Describe at least:
