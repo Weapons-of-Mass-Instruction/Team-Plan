@@ -31,6 +31,7 @@ Standups daily-MVP for sections of day. 3 daily, morning, after lunch, EOD
 NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.
 
 ## Conflict Plan
+
 Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
 
 Describe at least:
@@ -121,7 +122,7 @@ create an org
 
 • What is your Git flow?
 
-## Create a sub main branch, require at least 2 approvers. New features should have new branch. Commit often. Merge during meetups.
+Create a sub main branch, require at least 2 approvers. New features should have new branch. Commit often. Merge during meetups.
 
 • Will you be using a PR review workflow? If so, consider:
 
