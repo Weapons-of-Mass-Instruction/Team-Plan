@@ -12,12 +12,12 @@ Describe at least:
 • What are the key strengths of each person on the team?
 
 	
-| Ben|Backend, comfortable with all, no styling, bootstrap|
-| Cole|Frontend, comfortable with all, bootstrap|
-| Ella|Frontend, good with styling|
-| Nathan|Anywhere, not styling|
-| Michelle|Backend, comfortable with styling|
-	
+|Ben|Backend, comfortable with all, no styling, bootstrap
+|Cole|Frontend, comfortable with all, bootstrap
+|Ella|Frontend, good with styling
+|Nathan|Anywhere, not styling
+|Michelle|Backend, comfortable with styling
+
 	
 • How can you best utilize these strengths in the execution of your project?
 
