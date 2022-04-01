@@ -10,6 +10,8 @@ Every person on your team is an asset. This is your chance to discover the hidde
 Describe at least:
 
 • What are the key strengths of each person on the team?
+	|||
+	--|--
 	|Ben	|Backend, comfortable with all, no styling, bootstrap|
 	|Cole	|Frontend, comfortable with all, bootstrap|
 	|Ella	|Frontend, good with styling|
