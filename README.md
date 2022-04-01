@@ -32,7 +32,9 @@ NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an i
 
 ## Conflict Plan
 Your team should agree on a process for handing disagreements, should they arise. It is better to have a plan in place ahead of time so you can all refer back to it when necessary.
+
 Describe at least:
+
 • What will be your group’s process to resolve conflict, when it arises?
 The code not the person. Addressing with whole team and not singling anyone out.
 
@@ -49,6 +51,7 @@ Attempt to have an intervention between the team, if this does not work, ask for
 See above. **Quickly our timeline for this project is short.**
 
 ## Communication Plan
+
 Before beginning to tackle the project, determine how your group will communicate with each other. This is not an individual effort. Make sure everyone feels comfortable with the identified methods of speaking up.
 
 Describe at least:
@@ -122,7 +125,11 @@ create an org
 • Will you be using a PR review workflow? If so, consider:
 
 • How many people must review a PR? 2 approvers
+
 • Who merges PRs? whole team
+
 • How often will you merge? 3 times a day, during standups.
+
 • How will you communicate that it’s time to merge? during standups.
+
 ![image](https://user-images.githubusercontent.com/61945783/161351209-c9c6e53d-8d4a-4dcd-a1e3-4912514db961.png)
