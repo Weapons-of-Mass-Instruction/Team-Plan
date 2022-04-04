@@ -158,3 +158,23 @@ Create a sub main branch, require at least 2 approvers. New features should have
 ![Weapons of Mass Instruction Wireframe-AboutUs js](https://user-images.githubusercontent.com/61945783/161626378-18c695a6-6377-4c42-89a4-0b6693ccf0ee.jpeg)
 
 ![Weapons of Mass Instruction Wireframe-MusicPage](https://user-images.githubusercontent.com/61945783/161632655-9817772f-af60-4634-bcd1-b20b60c55194.jpeg)
+
+## Schema
+
+User{
+	Search{
+		band Name: "", (str)
+		song Name: "",(str)*Stretch Goals
+		genre: "", (str)*Stretch Goals
+	}
+	Results{
+		recommendedArtists: "",  (str) * 10 objects
+		favorite:"", (boolean)
+		playlist:"", (str)*Stretch Goals
+	}
+	Favorites{  
+		playlist Name: "", (str)
+		individual bands:"", (str)
+		favorite:"", (boolean)
+	}
+}![image](https://user-images.githubusercontent.com/61945783/161636574-55f5b958-ae4f-4329-8262-39377d81398c.png)
