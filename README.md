@@ -1,6 +1,8 @@
 # Team-Plan
 ### Team plan for 301 Final project 2022
+
 **Team:** Ben, Ella , Cole, Nathan, Michelle
+
 **Team Name:** Weapons of Mass Instruction
 
 **Presentation Deck:**  https://docs.google.com/presentation/d/1qe0qWSu7goDzDZBs9QYW1cnLVjtWwQPzViyAv2L_DGo/edit?usp=sharing
