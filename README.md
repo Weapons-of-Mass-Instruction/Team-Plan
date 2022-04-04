@@ -156,3 +156,5 @@ Create a sub main branch, require at least 2 approvers. New features should have
 ![Weapons of Mass Instruction Wireframe-Homepage](https://user-images.githubusercontent.com/61945783/161626390-c1d006b2-41b2-46ac-91cb-e661a0318e09.jpeg)
 
 ![Weapons of Mass Instruction Wireframe-AboutUs js](https://user-images.githubusercontent.com/61945783/161626378-18c695a6-6377-4c42-89a4-0b6693ccf0ee.jpeg)
+
+![Weapons of Mass Instruction Wireframe-MusicPage](https://user-images.githubusercontent.com/61945783/161632655-9817772f-af60-4634-bcd1-b20b60c55194.jpeg)
