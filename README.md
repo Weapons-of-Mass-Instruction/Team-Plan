@@ -4,9 +4,13 @@
 **Team Name:** Weapons of Mass Instruction
 
 **Presentation Deck:**  https://docs.google.com/presentation/d/1qe0qWSu7goDzDZBs9QYW1cnLVjtWwQPzViyAv2L_DGo/edit?usp=sharing
+
 **GitHUb:** https://github.com/Weapons-of-Mass-Instruction
+
 **Trello:** https://trello.com/invite/b/p0SqkahH/f28164591858ac162ede0453bc6ee707/301-project-board
-**WWRC:** https://lucid.app/lucidchart/b930d44d-175c-4bc7-8f47-36d714277456/edit?beaconFlowId=9FD67CB08D40C961&invitationId=inv_b8be2d60-3126-4600-8721-2d8dcd99c737&page=0_0#![image](https://user-images.githubusercontent.com/61945783/161603664-f38862c3-0b68-4bd5-a01d-c1d418d6846f.png)
+
+**WWRC:** https://lucid.app/lucidchart/b930d44d-175c-4bc7-8f47-36d714277456/edit?
+beaconFlowId=9FD67CB08D40C961&invitationId=inv_b8be2d60-3126-4600-8721-2d8dcd99c737&page=0_0#
 
 
 ## Cooperation Plan
@@ -143,3 +147,4 @@ Create a sub main branch, require at least 2 approvers. New features should have
 • How will you communicate that it’s time to merge? during standups.
 
 **WWRC**
+![Weapons of Mass Instruction WWRC](https://user-images.githubusercontent.com/61945783/161603996-56c3b715-731d-492d-847c-3957ab4a5a65.jpeg)
