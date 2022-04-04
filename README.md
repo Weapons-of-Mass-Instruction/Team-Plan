@@ -177,4 +177,9 @@ User{
 		individual bands:"", (str)
 		favorite:"", (boolean)
 	}
-}![image](https://user-images.githubusercontent.com/61945783/161636574-55f5b958-ae4f-4329-8262-39377d81398c.png)
+}
+
+![image](https://user-images.githubusercontent.com/61945783/161636574-55f5b958-ae4f-4329-8262-39377d81398c.png)
+
+![Front end React Map](https://user-images.githubusercontent.com/61945783/161646059-86fa5d71-c91a-45c2-881f-e0912998aa55.jpeg)
+
