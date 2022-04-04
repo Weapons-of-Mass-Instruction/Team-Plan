@@ -4,6 +4,11 @@
 **Team Name:** Weapons of Mass Instruction
 
 **Presentation Deck:**  https://docs.google.com/presentation/d/1qe0qWSu7goDzDZBs9QYW1cnLVjtWwQPzViyAv2L_DGo/edit?usp=sharing
+**GitHUb:** https://github.com/Weapons-of-Mass-Instruction
+**Trello:** https://trello.com/invite/b/p0SqkahH/f28164591858ac162ede0453bc6ee707/301-project-board
+**WWRC:** https://lucid.app/lucidchart/b930d44d-175c-4bc7-8f47-36d714277456/edit?beaconFlowId=9FD67CB08D40C961&invitationId=inv_b8be2d60-3126-4600-8721-2d8dcd99c737&page=0_0#![image](https://user-images.githubusercontent.com/61945783/161603664-f38862c3-0b68-4bd5-a01d-c1d418d6846f.png)
+
+
 ## Cooperation Plan
 
 Every person on your team is an asset. This is your chance to discover the hidden strengths and areas for growth for each team member.
@@ -137,4 +142,4 @@ Create a sub main branch, require at least 2 approvers. New features should have
 
 • How will you communicate that it’s time to merge? during standups.
 
-![image](https://user-images.githubusercontent.com/61945783/161351209-c9c6e53d-8d4a-4dcd-a1e3-4912514db961.png)
+**WWRC**
