@@ -151,3 +151,8 @@ Create a sub main branch, require at least 2 approvers. New features should have
 
 **WWRC**
 ![Weapons of Mass Instruction WWRC](https://user-images.githubusercontent.com/61945783/161603996-56c3b715-731d-492d-847c-3957ab4a5a65.jpeg)
+
+**WireFrame**
+![Weapons of Mass Instruction Wireframe-Homepage](https://user-images.githubusercontent.com/61945783/161626390-c1d006b2-41b2-46ac-91cb-e661a0318e09.jpeg)
+
+![Weapons of Mass Instruction Wireframe-AboutUs js](https://user-images.githubusercontent.com/61945783/161626378-18c695a6-6377-4c42-89a4-0b6693ccf0ee.jpeg)
