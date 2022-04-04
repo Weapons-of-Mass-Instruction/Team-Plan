@@ -1,7 +1,7 @@
 # Team-Plan
 ### Team plan for 301 Final project 2022
 
-**Team:** Ben, Ella , Cole, Nathan, Michelle
+**Team:** Benjamin Carter, Ella Svete, Cole Gibbs, Nathan Waters, Michelle Salazar
 
 **Team Name:** Weapons of Mass Instruction
 
