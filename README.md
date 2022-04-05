@@ -4,6 +4,7 @@
 **Team:** Benjamin Carter, Ella Svete, Cole Gibbs, Nathan Waters, Michelle Salazar
 
 **Team Name:** Weapons of Mass Instruction
+**PLANNING** https://docs.google.com/document/d/1gWDWaOkg9wdeZN5Gf8zxi0XcddPqQAOciX2DQOaxkEQ/edit?usp=sharing
 
 **Presentation Deck:**  https://docs.google.com/presentation/d/1qe0qWSu7goDzDZBs9QYW1cnLVjtWwQPzViyAv2L_DGo/edit?usp=sharing
 
