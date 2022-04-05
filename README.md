@@ -19,7 +19,7 @@
 
 Front End Deployed (main): https://snazzy-daifuku-c6ced4.netlify.app/
 
-Back End Deployed (main): 
+Back End Deployed (main): https://bands-like-this-be.herokuapp.com/
 
 
 ## Cooperation Plan
