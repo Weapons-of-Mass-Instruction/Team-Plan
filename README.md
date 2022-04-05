@@ -15,6 +15,10 @@
 
 **WireFrame:** https://lucid.app/lucidchart/0ca30a4d-ce06-439b-8b3e-29afab262edc/edit?beaconFlowId=769BE4944FE87C4E&invitationId=inv_f2f7fbbd-3a97-4963-bc5a-3a181e817f0d&page=0_0#
 
+Deployed Links:
+Front End Deployed (main): https://snazzy-daifuku-c6ced4.netlify.app/
+Back End Deployed (main): 
+
 
 ## Cooperation Plan
 
