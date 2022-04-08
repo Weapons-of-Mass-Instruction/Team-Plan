@@ -19,7 +19,7 @@
 
 ## Deployed Links:
 
-Front End Deployed (main): https://snazzy-daifuku-c6ced4.netlify.app/
+Front End Deployed (main): https://reccrdbin.netlify.app/
 
 Back End Deployed (main): https://bands-like-this-be.herokuapp.com/
 
