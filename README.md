@@ -158,7 +158,8 @@ Create a sub main branch, require at least 2 approvers. New features should have
 • How will you communicate that it’s time to merge? during standups.
 
 **WWRC**
-![Weapons of Mass Instruction WRRC](https://user-images.githubusercontent.com/61945783/162482860-8117a96c-4fbf-4792-a512-6222b0895a6e.png)
+![Weapons of Mass Instruction WRRC](https://user-images.githubusercontent.com/61945783/162483565-5e47305e-b8b2-4ffc-940e-4ed2c56d5e0c.jpeg)
+
 
 
 **WireFrame**
